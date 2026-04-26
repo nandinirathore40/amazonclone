@@ -58,5 +58,4 @@ Amazon name and brand assets belong to Amazon.
 ---
 
 ## Live Demo
-
-https://amazonclone-vert.vercel.app
+[View Deployed Website](https://amazonclone-git-master-nandinirathore40s-projects.vercel.app)
