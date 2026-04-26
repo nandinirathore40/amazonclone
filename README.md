@@ -55,3 +55,8 @@ The purpose of this project was to:
 This is a frontend educational clone created for learning purposes only.  
 Amazon name and brand assets belong to Amazon.
 
+---
+
+## Live Demo
+
+https://amazonclone-vert.vercel.app
